@@ -1,0 +1,13 @@
+# Visual Representation Learning
+
+## Visual Representation Learning on Image
+- [2018 ArXiv] **Representation Learning with Contrastive Predictive Coding**, [[paper]](https://arxiv.org/pdf/1807.03748.pdf), [[bibtex]](/Bibtex/Representation%20Learning%20with%20Contrastive%20Predictive%20Coding.bib), sources: [[davidtellez/contrastive-predictive-coding]](https://github.com/davidtellez/contrastive-predictive-coding), [[flrngel/cpc-tensorflow]](https://github.com/flrngel/cpc-tensorflow), [[jefflai108/Contrastive-Predictive-Coding-PyTorch]](https://github.com/jefflai108/Contrastive-Predictive-Coding-PyTorch).
+- [2018 CVPR] **Unsupervised Feature Learning via Non-Parametric Instance Discrimination**, [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0801.pdf), [[bibtex]](/Bibtex/Unsupervised%20Feature%20Learning%20via%20Non-Parametric%20Instance%20Discrimination.bib), sources: [[zhirongw/lemniscate.pytorch]](https://github.com/zhirongw/lemniscate.pytorch).
+- [2020 CVPR] **Momentum Contrast for Unsupervised Visual Representation Learning**, [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf), [[bibtex]](/Bibtex/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.bib), sources: [[facebookresearch/moco]](https://github.com/facebookresearch/moco).
+- [2020 CVPR] **Visual Commonsense R-CNN**, [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.pdf), [[bibtex]](/Bibtex/Visual%20Commonsense%20R-CNN.bib), sources: [[Wangt-CN/VC-R-CNN]](https://github.com/Wangt-CN/VC-R-CNN).
+- [2020 ICML] **Generative Pretraining from Pixels**, [[paper]](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf), [[bibtex]](/Bibtex/Generative%20Pretraining%20from%20Pixels.bib), sources: [[openai/image-gpt]](https://github.com/openai/image-gpt).
+- [2021 ICLR] **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**, [[paper]](https://openreview.net/pdf?id=YicbFdNTTy), [[bibtex]](/Bibtex/An%20Image%20is%20Worth%2016x16%20Words%20-%20Transformers%20for%20Image%20Recognition%20at%20Scale.bib), sources: [[google-research/vision_transformer]](https://github.com/google-research/vision_transformer).
+
+
+## Visual Representation Learning on Video
+- [2019 ICCV] **Video Representation Learning by Dense Predictive Coding**, [[paper]](https://arxiv.org/pdf/1909.04656.pdf), [[bibtex]](/Bibtex/Video%20Representation%20Learning%20by%20Dense%20Predictive%20Coding.bib), sources: [[TengdaHan/DPC]](https://github.com/TengdaHan/DPC).
