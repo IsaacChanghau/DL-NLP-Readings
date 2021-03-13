@@ -28,8 +28,8 @@
         3. [Image-based VQA, Reasoning and Dialogue](/readme/grounding/image/vqa_dialogue.md)
     3. Video-based Vision and Language
         1. [Video-based Vision-and-Language Modelling](/readme/grounding/video/vision_language.md)
-        2. [Video Captioning](/readme/grounding/video/video_captioning.md)
-        3. [Video Retrieval and Visual Grounding/Localization](/readme/grounding/video/video_retrieval_grounding.md)
+        2. [Video Retrieval and Captioning](/readme/grounding/video/video_retrieval_captioning.md)
+        3. [Video Grounding or Localization](/readme/grounding/video/video_grounding.md)
         4. [Video Question Answering, Reasoning and Dialogue](/readme/grounding/video/vqa_dialogue.md)
         5. [Other Video-based Vision and Language Tasks](/readme/grounding/video/others.md)
 4. [Graph and Social Network Representation](/readme/graphs.md)
