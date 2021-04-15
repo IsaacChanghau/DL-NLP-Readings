@@ -5,6 +5,7 @@
 
 ## Survey
 - [2019 ArXiv] **Multimodal Intelligence: Representation Learning Information Fusion and Applications**, [[paper]](https://arxiv.org/pdf/1911.03977.pdf), [[bibtex]](/Bibtex/Multimodal%20Intelligence%20-%20Representation%20Learning%20Information%20Fusion%20and%20Applications.bib).
+- [2020 JAIR] **Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods**, [[paper]](https://arxiv.org/pdf/1907.09358.pdf), [[bibtex]](/Bibtex/Trends%20in%20Integration%20of%20Vision%20and%20Language%20Research%20-%20A%20Survey%20of%20Tasks%20Datasets%20and%20Methods.bib).
 
 ## Others
 - [2019 IJCAI] **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**, [[paper]](https://www.ijcai.org/proceedings/2019/0751.pdf), [[bibtex]](/Bibtex/Adapting%20BERT%20for%20Target-Oriented%20Multimodal%20Sentiment%20Classification.bib), sources: [[jefferyYu/TomBERT]](https://github.com/jefferyYu/TomBERT).

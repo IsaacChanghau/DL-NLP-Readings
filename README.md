@@ -5,7 +5,7 @@
 ## Table of Contents
 1. Natural Language Processing
     1. [Char/Word Embeddings](/readme/nlp/emb.md)
-    2. [Language Modeling](/readme/nlp/language_modeling.md)
+    2. [Language Modeling and Analysis](/readme/nlp/language_modeling.md)
     3. [Machine Translation and Language Transfer, Generation, Summarization and Dialogue](/readme/nlp/machine_translation.md)
     4. [Machine Comprehension and Question Answering](/readme/nlp/machine_comprehension.md)
     5. [Sequence Labeling (POS, NER, SRL, RE, DP, EL and etc.)](/readme/nlp/sequence_labeling.md)
