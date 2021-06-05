@@ -53,6 +53,7 @@
 - [2020 CVPR] **Graph-Structured Referring Expression Reasoning in The Wild**, [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf), [[bibtex]](/Bibtex/Graph-Structured%20Referring%20Expression%20Reasoning%20in%20The%20Wild.bib), sources: [[sibeiyang/sgmn]](https://github.com/sibeiyang/sgmn).
 - [2021 WACV] **Meta Module Network for Compositional Visual Reasoning**, [[paper]](https://arxiv.org/pdf/1910.03230.pdf), [[bibtex]](/Bibtex/Meta%20Module%20Network%20for%20Compositional%20Visual%20Reasoning.bib), sources: [[wenhuchen/Meta-Module-Network]](https://github.com/wenhuchen/Meta-Module-Network).
 - [2021 AAAI] **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding**, [[paper]](https://arxiv.org/pdf/2009.01449.pdf), [[bibtex]](/Bibtex/Ref-NMS%20-%20Breaking%20Proposal%20Bottlenecks%20in%20Two-Stage%20Referring%20Expression%20Grounding.bib), sources: [[ChopinSharp/ref-nms]](https://github.com/ChopinSharp/ref-nms).
+- [2021 ArXiv] **VL-NMS: Breaking Proposal Bottlenecks in Two-Stage Visual-Language Matching**, [[paper]](https://arxiv.org/pdf/2105.05636.pdf), [[bibtex]](/Bibtex/VL-NMS%20-%20Breaking%20Proposal%20Bottlenecks%20in%20Two-Stage%20Visual-Language%20Matching.bib).
 
 
 ## Image-based Visual Dialogue
