@@ -105,8 +105,15 @@
 ## Entity Linking
 - [2019 ACL] **Boosting Entity Linking Performance by Leveraging Unlabeled Documents**, [[paper]](https://www.aclweb.org/anthology/P19-1187.pdf), [[bibtex]](/Bibtex/Boosting%20Entity%20Linking%20Performance%20by%20Leveraging%20Unlabeled%20Documents.bib), sources: [[lephong/wnel]](https://github.com/lephong/wnel).
 
-## Discourse Relation
+## Discourse Relation Representation and Identification
+- [2017 EMNLP] **Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification**, [[paper]](http://aclweb.org/anthology/D17-1134), [[bibtex]](/Bibtex/Multi-task%20Attention-based%20Neural%20Networks%20for%20Implicit%20Discourse%20Relationship%20Representation%20and%20Identification.bib).
 - [2018 NAACL] **Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph**, [[paper]](http://www.aclweb.org/anthology/N18-1013), [[bibtex]](/Bibtex/Improving%20Implicit%20Discourse%20Relation%20Classification%20by%20Modeling%20Inter-dependencies%29of%20Discourse%20Units%20in%20a%20Paragraph.bib), sources: [[ZeyuDai/paragraph_implicit_discourse_relations]](https://github.com/ZeyuDai/paragraph_implicit_discourse_relations).
 
-## Coreference Resolution
+## Coreference and Anaphora Resolution
+- [2012 EMNLP] **Joint Entity and Event Coreference Resolution across Documents**, [[paper]](https://aclweb.org/anthology/D/D12/D12-1045.pdf), [[bibtex]](/Bibtex/Joint%20Entity%20and%20Event%20Coreference%20Resolution%20across%20Documents.bib).
+- [2016 EMNLP] **Deep Reinforcement Learning for Mention-Ranking Coreference Models**, [[paper]](http://www.aclweb.org/anthology/D16-1245),  [[bibtex]](/Bibtex/Deep%20Reinforcement%20Learning%20for%20Mention-Ranking%20Coreference%20Models.bib), [[blog]](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30), [[demo]](https://huggingface.co/coref/), sources: [[huggingface/neuralcoref]](https://github.com/huggingface/neuralcoref), [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
+- [2016 ACL] **Improving Coreference Resolution by Learning Entity-Level Distributed Representations**, [[paper]](http://www.aclweb.org/anthology/P16-1061), [[bibtex]](/Bibtex/Improving%20Coreference%20Resolution%20by%20Learning%20Entity-Level%20Distributed%20Representations.bib), sources: [[clarkkev/deep-coref]](https://github.com/clarkkev/deep-coref).
+- [2017 ArXiv] **Linguistic Knowledge as Memory for Recurrent Neural Networks**, [[paper]](https://arxiv.org/pdf/1703.02620.pdf), [[bibtex]](/Bibtex/Linguistic%20Knowledge%20as%20Memory%20for%20Recurrent%20Neural%20Networks.bib).
+- [2019 ACL] **Zero-shot Word Sense Disambiguation using Sense Definition Embeddings**, [[paper]](https://www.aclweb.org/anthology/P19-1568), [[bibtex]](/Bibtex/Zero-shot%20Word%20Sense%20Disambiguation%20using%20Sense%20Definition%20Embeddings.bib), sources: [[malllabiisc/EWISE]](https://github.com/malllabiisc/EWISE).
 - [2020 ACL] **CorefQA: Coreference Resolution as Query-based Span Prediction**, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.622.pdf), [[bibtex]](https://www.aclweb.org/anthology/2020.acl-main.622.bib), sources: [[ShannonAI/CorefQA]](https://github.com/ShannonAI/CorefQA).
+

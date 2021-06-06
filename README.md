@@ -8,11 +8,11 @@
     2. [Language Modeling and Analysis](/readme/nlp/language_modeling.md)
     3. [Machine Translation and Language Transfer, Generation, Summarization and Dialogue](/readme/nlp/machine_translation.md)
     4. [Machine Comprehension and Question Answering](/readme/nlp/machine_comprehension.md)
-    5. [Sequence Labeling (POS, NER, SRL, RE, DP, EL and etc.)](/readme/nlp/sequence_labeling.md)
+    5. [Sequence Labeling (POS, NER, SRL, RE, Parsing, EL, Coref, Discourse, etc)](/readme/nlp/sequence_labeling.md)
     6. [Knowledge Base Completion and Representation](/readme/nlp/kb_completion.md)
     7. [Sentiment Analysis and Text Classification](/readme/nlp/classification.md)
     8. [Sentence Representation and Natural Language Inference](/readme/nlp/sent_emb_nli.md)
-    9. [Interpretability, Disambiguation, Anaphora and Discourse](/readme/nlp/interpretability.md)
+    9. [Interpretability and Disambiguation](/readme/nlp/interpretability.md)
     10. [Other NLP Research Works](/readme/nlp/others.md)
 2. Computer Vision
     1. [Visual Representation Learning](/readme/cv/vision_pretraining.md)
