@@ -1,13 +1,16 @@
-# Network Distillation and Data Imputation
+# Knowledge Distillation and Data Imputation
 
-## Network Distillation
+## Knowledge Distillation
 - Knowledge Distillation Resources: [[dkozlov/awesome-knowledge-distillation]](https://github.com/dkozlov/awesome-knowledge-distillation).
 - [2014 NeurIPS] **Distilling the Knowledge in a Neural Network**, [[paper]](https://arxiv.org/pdf/1503.02531.pdf), [[bibtex]](/Bibtex/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.bib), sources: [[peterliht/knowledge-distillation-pytorch]](https://github.com/peterliht/knowledge-distillation-pytorch), [[a7b23/Distilling-the-knowledge-in-neural-network]](https://github.com/a7b23/Distilling-the-knowledge-in-neural-network), [[chengshengchan/model_compression]](https://github.com/chengshengchan/model_compression).
 - [2016 ICLR] **Unifying Distillation and Privileged Information**, [[paper]](https://arxiv.org/pdf/1511.03643.pdf), [[bibtex]](/Bibtex/Unifying%20Distillation%20and%20Privileged%20Information.bib).
-- [2018 NeurIPS] **KDGAN: Knowledge Distillation with Generative Adversarial Networks**, [[paper]](https://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf), [[bibtex]](/Bibtex/KDGAN%20-%20Knowledge%20Distillation%20with%20Generative%20Adversarial%20Networks.bib), [[homepage]](https://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks), sources: [[xiaojiew1/KDGAN]](https://github.com/xiaojiew1/KDGAN).
-
-## Dataset Distillation
+- [2017 NeurIPS] **Data-Free Knowledge Distillation for Deep Neural Networks**, [[paper]](https://arxiv.org/pdf/1710.07535.pdf), [[bibtex]](/Bibtex/Data-Free%20Knowledge%20Distillation%20for%20Deep%20Neural%20Networks.bib).
 - [2018 ArXiv] **Dataset Distillation**, [[paper]](https://arxiv.org/pdf/1811.10959.pdf), [[bibtex]](/Bibtex/Dataset%20Distillation.bib), [[homepage]](https://ssnl.github.io/dataset_distillation/), sources: [[SsnL/dataset-distillation]](https://github.com/SsnL/dataset-distillation).
+- [2018 NeurIPS] **KDGAN: Knowledge Distillation with Generative Adversarial Networks**, [[paper]](https://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks.pdf), [[bibtex]](/Bibtex/KDGAN%20-%20Knowledge%20Distillation%20with%20Generative%20Adversarial%20Networks.bib), [[homepage]](https://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks), sources: [[xiaojiew1/KDGAN]](https://github.com/xiaojiew1/KDGAN).
+- [2019 ArXiv] **Data-Free Adversarial Distillation**, [[paper]](https://arxiv.org/pdf/1912.11006.pdf), [[bibtex]](/Bibtex/Data-Free%20Adversarial%20Distillation.bib), sources: [[VainF/Data-Free-Adversarial-Distillation]](https://github.com/VainF/Data-Free-Adversarial-Distillation).
+- [2019 ICCV] **Data-Free Learning of Student Networks**, [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Data-Free_Learning_of_Student_Networks_ICCV_2019_paper.pdf), [[bibtex]](/Bibtex/Data-Free%20Learning%20of%20Student%20Networks.bib), sources: [[autogyro/DAFL]](https://github.com/autogyro/DAFL).
+- [2021 WACV] **Data-free Knowledge Distillation for Object Detection**, [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Chawla_Data-Free_Knowledge_Distillation_for_Object_Detection_WACV_2021_paper.pdf), [[bibtex]](/Bibtex/Data-free%20Knowledge%20Distillation%20for%20Object%20Detection.bib).
+
 
 ## Data Imputation
 - [2017 CVPR] **Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Patrini_Making_Deep_Neural_CVPR_2017_paper.pdf), [[slides]](https://pdfs.semanticscholar.org/d23d/684d7d413186a3cdd96cd1230d8476ea39ab.pdf), [[bibtex]](/Bibtex/Making%20Deep%20Neural%20Networks%20Robust%20to%20Label%20Noise.bib), sources: [[giorgiop/loss-correction]](https://github.com/giorgiop/loss-correction).
